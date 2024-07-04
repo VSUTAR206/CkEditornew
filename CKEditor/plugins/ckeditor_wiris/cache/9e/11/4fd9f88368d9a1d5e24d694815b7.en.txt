@@ -1,0 +1,1 @@
+{"result":{"text":"sum from 8 to 7 of 4 over 5 cross times beta to the power of 7 cross times integral rightwards arrow from blank to blank of"},"status":"ok"}

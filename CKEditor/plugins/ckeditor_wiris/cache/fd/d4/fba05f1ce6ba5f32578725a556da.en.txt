@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 25 cross times cos open parentheses 25 close parentheses plus open vertical bar table row 5 5 row 5 5 end table close vertical bar"},"status":"ok"}

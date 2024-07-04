@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 4 cross times square root of 2 subscript 2 plus integral tan open parentheses 25 close parentheses end subscript plus tan open parentheses 25 close parentheses"},"status":"ok"}

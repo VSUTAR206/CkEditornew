@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses 25 close parentheses cross times cos open parentheses 25 close parentheses plus begin inline style sum for 2 of end style"},"status":"ok"}

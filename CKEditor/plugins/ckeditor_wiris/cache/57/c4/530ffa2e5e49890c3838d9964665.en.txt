@@ -1,0 +1,1 @@
+{"result":{"text":"open square brackets 5 open vertical bar table row 5 5 row 5 5 end table close vertical bar plus cos open parentheses 25 close parentheses cross times log subscript 2 open parentheses 5 close parentheses close square brackets"},"status":"ok"}

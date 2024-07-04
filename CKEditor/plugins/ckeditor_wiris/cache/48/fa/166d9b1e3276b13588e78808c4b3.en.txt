@@ -1,0 +1,1 @@
+{"result":{"text":"open vertical bar 25 close vertical bar leftwards arrow from 5 to 5 of infinity plus-or-minus 25"},"status":"ok"}

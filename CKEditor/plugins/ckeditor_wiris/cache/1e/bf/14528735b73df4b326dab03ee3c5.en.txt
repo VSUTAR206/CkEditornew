@@ -1,0 +1,1 @@
+{"result":{"text":"square root of square root of 5 end root plus open vertical bar table row 5 5 row 5 5 end table close vertical bar plus sum from 2 to 10 of integral cos open parentheses 25 close parentheses"},"status":"ok"}

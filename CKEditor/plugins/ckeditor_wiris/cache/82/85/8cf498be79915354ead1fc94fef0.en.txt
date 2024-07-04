@@ -1,0 +1,1 @@
+{"result":{"text":"integral subscript 2 superscript 2 cos open parentheses 10 close parentheses space nabla times 5"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"fifth root of 5 plus 25 over 5 plus cos open parentheses 25 close parentheses limit as 1 rightwards arrow infinity of cross times sum from 5 to 10 of fifth root of 5"},"status":"ok"}

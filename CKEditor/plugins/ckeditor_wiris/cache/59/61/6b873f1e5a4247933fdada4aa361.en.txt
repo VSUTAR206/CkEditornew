@@ -1,0 +1,1 @@
+{"result":{"text":"cos open parentheses 25 plus 25 close parentheses cross times 10 square root of 2"},"status":"ok"}

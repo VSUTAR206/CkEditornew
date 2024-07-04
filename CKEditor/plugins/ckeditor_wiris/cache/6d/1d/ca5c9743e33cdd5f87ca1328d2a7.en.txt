@@ -1,0 +1,1 @@
+{"result":{"text":"theta cross times square root of 25 plus integral log subscript 2 open parentheses 10 close parentheses"},"status":"ok"}

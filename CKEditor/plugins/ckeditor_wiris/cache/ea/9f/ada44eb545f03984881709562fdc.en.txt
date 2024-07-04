@@ -1,0 +1,1 @@
+{"result":{"text":"fifth root of 2 cross times bevelled 25 over 5 plus integral cos open parentheses 25 close parentheses"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight H subscript 2 straight O plus cos open parentheses 25 close parentheses"},"status":"ok"}

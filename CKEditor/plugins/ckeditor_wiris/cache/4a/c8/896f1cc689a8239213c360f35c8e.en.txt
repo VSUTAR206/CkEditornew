@@ -1,0 +1,1 @@
+{"result":{"text":"2 to the power of 5 plus square root of 25 plus open parentheses 25 close parentheses integral subscript 5 superscript 25"},"status":"ok"}

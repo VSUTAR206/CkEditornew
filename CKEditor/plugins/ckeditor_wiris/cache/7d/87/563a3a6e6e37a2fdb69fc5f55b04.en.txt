@@ -1,0 +1,1 @@
+{"result":{"text":"open curly brackets 25 close curly brackets divided by element of plus infinity fraction numerator partial differential 25 over denominator partial differential 5 end fraction"},"status":"ok"}

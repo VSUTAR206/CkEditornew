@@ -1,0 +1,1 @@
+{"result":{"text":"open vertical bar 25 close vertical bar cross times pi plus tan open parentheses 25 close parentheses"},"status":"ok"}
